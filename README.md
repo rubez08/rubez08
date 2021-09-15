@@ -3,7 +3,8 @@
   - Data Analytics 
   - Machine learning
   - Neural Networkds
-- 🌱 I’m currently learning - Python Machine Learning Libraries (Scikit-Learn, TensorFlow, Keras)
+- 🌱 I’m currently learning 
+  - Python Machine Learning Libraries (Scikit-Learn, TensorFlow, Keras)
   - Power BI
 - 💞️ I’m looking to collaborate on 
   - Still learning, but would love to discuss anything data related!
