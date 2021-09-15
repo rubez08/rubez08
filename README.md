@@ -1,12 +1,12 @@
 - 👋 Hi, I’m @rubez08
 - 👀 I’m interested in 
-  - Blockchain technology 
-  - Machine learning / neural networks
-- 🌱 I’m currently learning - Flow blockchain, Cadence programming language
-  - Solidity, frontend integrations to Solidity
-  - Various machine learning Python libraries (PyCaret, TensorFlow, Scikit Learn, etc...)
+  - Data Analytics 
+  - Machine learning
+  - Neural Networkds
+- 🌱 I’m currently learning - Python Machine Learning Libraries (Scikit-Learn, TensorFlow, Keras)
+  - Power BI
 - 💞️ I’m looking to collaborate on 
-  - Still learning, but would love to discuss anything Ethereum related, NFTs!
+  - Still learning, but would love to discuss anything data related!
 - 📫 How to reach me 
   - rubez08@gmail.com
 
