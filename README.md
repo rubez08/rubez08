@@ -1,15 +1,13 @@
 - 👋 Hi, I’m @rubez08
 - 👀 I’m interested in 
-  - Data Analytics 
-  - Machine learning
-  - Neural Networkds
+  - Building scalable back-ends
+  - UI and creative front-end design
+  - LLMs
 - 🌱 I’m currently learning 
   - RAG Applications
-  - Power BI
-- 💞️ I’m looking to collaborate on 
-  - Still learning, but would love to discuss anything data related!
+  - AWS, GCP
 - 📫 How to reach me 
-  - rubez08@gmail.com
+  - michael.ruby.mdr@gmail.com
 
 <!---
 rubez08/rubez08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
